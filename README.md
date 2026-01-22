@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Alex 👋
 
-<!--
-**cy-alexander/cy-alexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science and Information Systems student**, currently focused on building strong foundations through academic and personal projects.
 
-Here are some ideas to get you started:
+I use GitHub to document my learning process and **progressively build a professional profile through projects**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 Computer Science and Information Systems student
+- 🧠 I learn by building and refining academic and personal projects
+- 🎯 I focus on strong fundamentals and continuous improvement through **deliberate practice**
+
+### 🛠️ Technologies & Tools
+- **Java** (Swing)
+- **HTML**
+- **CSS**
+- **SQL**
+- **JavaScript**
+- **React**
+- **C#**
+
+### 📂 Projects
+My repositories mainly include:
+- academic projects developed and customized individually
+- personal projects focused on applying and consolidating knowledge
+- continuous improvements reflecting the evolution of my technical skills
+
+### 🎯 Current Goals
+- Consolidate and apply programming knowledge through projects
+- Design, structure, and document projects in a clear and scalable way
+- Build a professional, honest, and consistent GitHub profile
