@@ -1,33 +1,33 @@
-## Hi, I'm Alex 👋
+## Hola, soy Alex 👋
 
-🎓 **Computer Science and Information Systems student**, focused on software development and applying knowledge through projects.
+🎓 **Estudiante de Computación e Informática**, enfocado en el desarrollo de software y en aplicar lo aprendido mediante proyectos.
 
-I use GitHub to document my learning process and progressively build a professional profile through projects.
-
----
-
-### 👨‍💻 About Me
-- 🎓 Computer Science and Information Systems student  
-- 🧠 I learn by building and refining academic and personal projects  
-- 🎯 I focus on strong fundamentals and continuous improvement through **deliberate practice**
+Uso GitHub para documentar mi proceso de aprendizaje y construir progresivamente un perfil profesional a través de proyectos.
 
 ---
 
-### 🛠️ Technologies & Tools
+### 👨‍💻 Sobre mí
+- 🎓 Estudiante de Computación e Informática  
+- 🧠 Aprendo construyendo y mejorando proyectos académicos y personales  
+- 🎯 Me enfoco en bases sólidas y en la mejora continua mediante **práctica deliberada**
 
-**Languages & Frameworks**
+---
+
+### 🛠️ Tecnologías y herramientas
+
+**Lenguajes y frameworks**
 - Java (Swing)
-- C#
+- C# (ASP.NET Framework, ADO.NET)
 - JavaScript
 - React
 - HTML
 - CSS
 - SQL
 
-**Version Control & Tools**
+**Control de versiones y herramientas**
 - Git & GitHub
 
-**IDEs & Editors**
+**IDEs y editores**
 - VS Code
 - Visual Studio
 - Eclipse
@@ -35,17 +35,16 @@ I use GitHub to document my learning process and progressively build a professio
 
 ---
 
-### 📂 Projects
-My repositories mainly include:
+### 📂 Proyectos
+Mis repositorios incluyen principalmente:
 
-- academic projects developed and customized individually  
-- personal projects focused on applying and consolidating knowledge  
-- continuous improvements reflecting the evolution of my technical skills  
+- proyectos académicos desarrollados y adaptados de manera individual  
+- proyectos personales enfocados en aplicar y consolidar conocimientos  
+- mejoras continuas que reflejan la evolución de mis habilidades técnicas  
 
 ---
 
-### 🎯 Current Goals
-- Consolidate and apply programming knowledge through projects  
-- Design, structure, and document projects in a clear and scalable way  
-- Build a professional, honest, and consistent GitHub profile  
-
+### 🎯 Objetivos actuales
+- Consolidar y aplicar conocimientos de programación mediante proyectos  
+- Diseñar, estructurar y documentar proyectos de forma clara y escalable  
+- Construir un perfil de GitHub profesional, honesto y consistente  
