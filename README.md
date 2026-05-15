@@ -1,4 +1,5 @@
 <div align="center">
+
 ## Hola, soy Alex 👋
 
 🎓 **Estudiante de Computación e Informática**, enfocado en el desarrollo de software y en aplicar lo aprendido mediante proyectos.
@@ -9,6 +10,7 @@ Uso GitHub para documentar mi proceso de aprendizaje y construir progresivamente
 ---
 
 <h3><img src="https://img.shields.io/badge/|-%237F77DD?style=flat&logoColor=white" height="16"/> 👨‍💻 Sobre mí</h3>
+
 - 🎓 Estudiante de Computación e Informática  
 - 🧠 Aprendo construyendo y mejorando proyectos académicos y personales  
 - 🎯 Me enfoco en bases sólidas y en la mejora continua mediante **práctica deliberada**
