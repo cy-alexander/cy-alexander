@@ -5,6 +5,7 @@
 🎓 **Estudiante de Computación e Informática**, enfocado en el desarrollo de software y en aplicar lo aprendido mediante proyectos.
 
 Uso GitHub para documentar mi proceso de aprendizaje y construir progresivamente un perfil profesional a través de proyectos. 
+
 </div>
 
 ---
