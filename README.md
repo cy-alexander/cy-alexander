@@ -4,12 +4,13 @@
 
 🎓 **Estudiante de Computación e Informática**, enfocado en el desarrollo de software y en aplicar lo aprendido mediante proyectos.
 
-Uso GitHub para documentar mi proceso de aprendizaje y construir progresivamente un perfil profesional a través de proyectos.
+Uso GitHub para documentar mi proceso de aprendizaje y construir progresivamente un perfil profesional a través de proyectos. 
+
 </div>
 
 ---
 
-<h3><img src="https://img.shields.io/badge/|-%237F77DD?style=flat&logoColor=white" height="16"/> 👨‍💻 Sobre mí</h3>
+### 👨‍💻 Sobre mí 
 
 - 🎓 Estudiante de Computación e Informática  
 - 🧠 Aprendo construyendo y mejorando proyectos académicos y personales  
@@ -22,7 +23,7 @@ Uso GitHub para documentar mi proceso de aprendizaje y construir progresivamente
 **Lenguajes y frameworks**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-9B59D0?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -46,9 +47,9 @@ Uso GitHub para documentar mi proceso de aprendizaje y construir progresivamente
 ### 📂 Proyectos
 Mis repositorios incluyen principalmente:
 
-- proyectos académicos desarrollados y adaptados de manera individual  
-- proyectos personales enfocados en aplicar y consolidar conocimientos  
-- mejoras continuas que reflejan la evolución de mis habilidades técnicas  
+- Proyectos académicos desarrollados y adaptados de manera individual  
+- Proyectos personales enfocados en aplicar y consolidar conocimientos  
+- Mejoras continuas que reflejan la evolución de mis habilidades técnicas  
 
 ---
 
