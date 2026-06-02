@@ -4,7 +4,7 @@
 
 🎓 **Estudiante de Computación e Informática**, enfocado en el desarrollo de software y en aplicar lo aprendido mediante proyectos.
 
-Uso GitHub para documentar mi proceso de aprendizaje y construir progresivamente un perfil profesional a través de proyectos. 
+Uso GitHub como espacio para documentar mi aprendizaje, desarrollar proyectos y construir un portafolio que refleje mi crecimiento técnico y profesional.
 
 </div>
 
@@ -12,9 +12,10 @@ Uso GitHub para documentar mi proceso de aprendizaje y construir progresivamente
 
 ### 👨‍💻 Sobre mí 
 
-- 🎓 Estudiante de Computación e Informática  
-- 🧠 Aprendo construyendo y mejorando proyectos académicos y personales  
-- 🎯 Me enfoco en bases sólidas y en la mejora continua mediante **práctica deliberada**
+- 🧠 Aprendizaje orientado a proyectos académicos y personales 
+- 🧩 Gusto por la planificación y estructura antes de escribir código, priorizando un diseño claro desde el inicio
+- 🖥️ Interés en el desarrollo móvil y de escritorio, con proyección hacia la ingeniería de software
+- 📚 Iniciativa para explorar y aplicar tecnologías más allá del entorno académico
 
 ---
 
@@ -38,10 +39,10 @@ Uso GitHub para documentar mi proceso de aprendizaje y construir progresivamente
 
 **IDEs y editores**
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 ---
 
@@ -55,6 +56,6 @@ Mis repositorios incluyen principalmente:
 ---
 
 ### 🎯 Objetivos actuales
-- Consolidar y aplicar conocimientos de programación mediante proyectos  
-- Diseñar, estructurar y documentar proyectos de forma clara y escalable  
-- Construir un perfil de GitHub profesional, honesto y consistente  
+- Desarrollar software con buenas prácticas, código limpio y documentación clara  
+- Aprender desarrollo móvil de forma autodidacta y publicar mi primera app en Play Store
+- Continuar mi formación hacia la ingeniería de software como siguiente etapa profesional
