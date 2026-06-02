@@ -43,6 +43,7 @@ Uso GitHub como espacio para documentar mi aprendizaje, desarrollar proyectos y 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+[![Antigravity IDE](https://shields.io)](https://antigravity.google/)
 
 ---
 
